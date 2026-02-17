@@ -22,3 +22,4 @@ All stored passwords are encrypted and cannot be accessed without the correct ma
 ## Run Locally
 pip install cryptography
 python main.py
+
